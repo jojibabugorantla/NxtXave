@@ -1,8 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
 .card{
     background-color: lightblue;
+    text-align: center;
+    font-family: 'Bree Serif';
+    font-style: italic;
+    font-weight: 100;
+    
+
 }
+
 .main-heading{
     color: blue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 400;
+    text-decoration: line-through rgb(162, 0, 162);
 }
 .paragraph{
     color: grey;
