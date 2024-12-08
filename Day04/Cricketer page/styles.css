@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: rgb(125, 233, 233);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.top-section {
+
+}
+.cricketer-details {
+    background-color: #fb4e71;
+    height: 30vh;
+    padding: 20px;
+
+}
+.cricketer-details-name {
+    background-color: #fb4e71;
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+.cricketer-details-about {
+    color: #ffffff;
+    font-family: "Roboto";
+
+}
+.top-sections-player-img{
+    background-color: #fb4e71;
+    padding: 20px;
+    height: 30vh;
+}
+
+.records {
+    font-family: "Roboto";
+    font-weight: 900;
+    padding: 15px;
+}
+.bottom-section{
+    background-color: #e6f6ff;
+    border-radius: 10px;
+    margin: 15px;
+}
+.bottom-section-match {
+    font-family: "Roboto";
+    font-size: 600;
+    padding: 15px;
+}
+
+.bottom-section-match-record {
+    font-family: "Roboto";
+    font-size: 400;
+    padding: 15px;
+}
+
+.Videos {
+    font-family: "Roboto";
+    font-weight: 900;
+    padding: 15px;
+}
+.last-section-card{
+    height: 30vh;
+    margin: 20px;
+}
+.last-section-status {
+    width: 25vw;
+    font-size: 12px;
+
+}
+.last-button{
+    text-align: center;
+}
