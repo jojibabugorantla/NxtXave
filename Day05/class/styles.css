@@ -101,3 +101,7 @@
 .detailed-view-card-text-container {
   padding: 16px;
 }
+
+.unorder-list {
+  list-style-type: disc ;
+}
